@@ -1,14 +1,12 @@
-The Gathering: Uoffisiell link-liste
-====================================
+The Gathering: Contributions
+============================
 
 Dette er en uoffisiell liste over lenker som er, på en eller annen måte,
 relatert til The Gathering. Noe av innholdet er lagd av folk bak TG/KANDU,
 mens annet innhold er lagd av folk som ikke har noen formell assosiasjon
 med TG/KANDU. The Gathering/KANDU går ikke god for innhold eller
 informasjon du finner på disse sidene. Om du ønsker å legge til noe i
-lista, se https://github.com/gathering/contrib
-
-"Contrib" er kort for "contributions".
+lista, se https://github.com/gathering/contrib 
 
 Offisielle ting
 ---------------
@@ -45,7 +43,6 @@ Misc
 
 - https://stats.geekevents.org - statistikk for billettsalg
 - https://tg.msbone.net/ - Old-school statistikk
-- https://tg.friday.horse/ - Studer hester mens du venter
 
 Crew-relatert
 -------------
