@@ -24,6 +24,15 @@ Misc
 
 - https://tg.friday.horse/ - studer hester mens du venter
 
+Bilder
+------
+
+Husk: Før du gjenbruker bilder må du sjekke om du får lov (linking er
+greit)
+
+- https://bilder.jocke.no/#!/the_gathering_2017 - Joachim Tingvold (tg17++)
+- https://bilder.kly.no/#!/2017-04-07-tg17 - Kristian Lyngstøl (tg17++)
+
 Crew-relatert
 -------------
 
