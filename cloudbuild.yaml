@@ -1,16 +1,16 @@
 ---
 steps:
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/mindful-primer-194013/contrib:$BUILD_ID', '.']
+  args: ['build', '-t', 'gcr.io/$PROJECT_ID/contrib:$BUILD_ID', '.']
 - name: 'gcr.io/cloud-builders/docker'
-  args: ["push", "gcr.io/mindful-primer-194013/contrib:$BUILD_ID"]
+  args: ["push", "gcr.io/$PROJECT_ID/contrib:$BUILD_ID"]
 - name: 'gcr.io/cloud-builders/kubectl'
   args:
   - set
   - image
   - deployment
   - contrib
-  - contrib=gcr.io/mindful-primer-194013/contrib:$BUILD_ID
+  - contrib=gcr.io/$PROJECT_ID/contrib:$BUILD_ID
   env:
   - 'CLOUDSDK_COMPUTE_ZONE=europe-west1-b'
   - 'CLOUDSDK_CONTAINER_CLUSTER=cluster-1'
