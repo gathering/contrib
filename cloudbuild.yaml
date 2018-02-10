@@ -11,6 +11,6 @@ steps:
   - deployment
   - contrib
   - contrib=gcr.io/mindful-primer-194013/contrib:latest
-- env:
-- 'CLOUDSDK_COMPUTE_ZONE=europe-west1-b'
-- 'CLOUDSDK_CONTAINER_CLUSTER=cluster-1'
+  env:
+  - 'CLOUDSDK_COMPUTE_ZONE=europe-west1-b'
+  - 'CLOUDSDK_CONTAINER_CLUSTER=cluster-1'
