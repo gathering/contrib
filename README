@@ -1,0 +1,16 @@
+Dette er repoet for contrib.gathering.org.
+
+For å oppdatere lista er alt du trenger å gjøre å editere index.rst,
+comitte og pushe (eller be om pull-request).
+
+Vi tar i mot pull requests for å oppdatere lista, eller du kan kontakte oss
+på en av mange kanaler, f.eks. via et issue på denne siden eller via slack
+om du er Crew (#tg18-systems), eller via mail (wannabe@gathering.org blir
+lest).
+
+Bak kulissene ligger det docker, kubernetes/gke, reStructuredText (den litt
+mer ansvarbeviste storebroren til "markdown" - se rst2html) og nginx.
+
+Du kan teste med "make index.html" om du har rst2html installert, eller
+"make build" om du har docker. Se Makefile for detaljer - den er liten og
+lett.
