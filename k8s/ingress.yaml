@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  labels:
+    app: contrib
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    kubernetes.io/tls-acme: "true"
+  name: contrib
+spec:
+  rules:
+  - host: contrib.k8s.kly.no
+    http:
+      paths:
+      - backend:
+          serviceName: contrib
+          servicePort: 80
+        path: /
+  tls:
+  - hosts:
+    - contrib.k8s.kly.no
+    secretName: contrib-tls

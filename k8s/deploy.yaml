@@ -1,0 +1,22 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  labels:
+    app: contrib
+  name: contrib
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: contrib
+  template:
+    metadata:
+      labels:
+        app: contrib
+    spec:
+      containers:
+      - image: thegathering/contrib:latest
+        name: contrib
+        ports:
+        - containerPort: 80
+          protocol: TCP
