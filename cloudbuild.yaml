@@ -1,7 +1,7 @@
 ---
 steps:
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/mindful-primer-194013/contrib', '.']
+  args: ['build', '-t', 'gcr.io/mindful-primer-194013/contrib:$BUILD_ID', '.']
 - name: 'gcr.io/cloud-builders/docker'
   args: ["push", "gcr.io/mindful-primer-194013/contrib:$BUILD_ID"]
 - name: 'gcr.io/cloud-builders/kubectl'
