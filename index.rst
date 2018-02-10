@@ -35,9 +35,10 @@ greit)
 Nedtelling
 ----------
 
+- https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
 - https://royolsen1.github.io/Tg-countdown/ - Countdown til TG18 !
 - https://tg.friday.horse/ - Studer hester mens du venter
-- https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
+- https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
 
 Misc
 ----
@@ -45,9 +46,6 @@ Misc
 - https://stats.geekevents.org - statistikk for billettsalg
 - https://tg.msbone.net/ - Old-school statistikk
 - https://tg.friday.horse/ - Studer hester mens du venter
-- https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
-- https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
-
 
 Crew-relatert
 -------------
