@@ -1,3 +1,4 @@
+---
 steps:
 - name: 'gcr.io/cloud-builders/docker'
   args: ['build', '-t', 'gcr.io/mindful-primer-194013/contrib', '.']
@@ -9,7 +10,7 @@ steps:
   - image
   - deployment
   - contrib
-  - contrib=gcr.io/mindful-primer-194013/contrib:[TAG]
+  - contrib=gcr.io/mindful-primer-194013/contrib:latest
 - env:
 - 'CLOUDSDK_COMPUTE_ZONE=europe-west1-b'
 - 'CLOUDSDK_CONTAINER_CLUSTER=cluster-1'
