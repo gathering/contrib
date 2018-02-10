@@ -11,6 +11,6 @@ lest).
 Bak kulissene ligger det docker, kubernetes/gke, reStructuredText (den litt
 mer ansvarbeviste storebroren til "markdown" - se rst2html) og nginx.
 
-Du kan teste med "make index.html" om du har rst2html installert, eller
-"make build" om du har docker. Se Makefile for detaljer - den er liten og
-lett.
+Du kan teste med "rst2html --template=template.raw < index.rst > index.html"
+om du har rst2html installert, eller "docker build -t contrib ." om du har
+docker. Se Dockerfile for detaljer - den er liten og lett.
