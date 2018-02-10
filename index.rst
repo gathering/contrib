@@ -16,13 +16,10 @@ Offisielle ting
 - https://www.gathering.org
 - https://www.geekevents.org/tg18/shop/#/ - billettsalg
 - https://kandu.no - Kreativ, Aktiv, Norsk Dataungdom, organisasjonen bak TG
-- https://stats.geekevents.org - statistikk for billettsalg
+- https://www.facebook.com/groups/tg2018/ - The Gathering på Facebook
+- https://discord.gg/PmSTYdT - Discord, chat!
 - https://unicorn.gathering.org/ - Composystem for The Gathering
-
-Misc
-----
-
-- https://tg.friday.horse/ - studer hester mens du venter
+- https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
 
 Bilder
 ------
@@ -33,10 +30,18 @@ greit)
 - https://bilder.jocke.no/#!/the_gathering_2017 - Joachim Tingvold (tg17++)
 - https://bilder.kly.no/#!/2017-04-07-tg17 - Kristian Lyngstøl (tg17++)
 
+Misc
+----
+
+- https://stats.geekevents.org - statistikk for billettsalg
+- https://tg.msbone.net/ - Old-school statistikk
+- https://tg.friday.horse/ - Studer hester mens du venter
+- https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
+
 Crew-relatert
 -------------
 
 - https://wannabe.gathering.org - crewopptak, med mer
-- https://https://atlassian.gathering.org/ - confluence/jira (wiki, etc)
+- https://atlassian.gathering.org/ - confluence/jira (wiki, etc)
 - https://gathering.slack.com - Spør din chief for tilgang
 
