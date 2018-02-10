@@ -30,6 +30,13 @@ greit)
 - https://bilder.jocke.no/#!/the_gathering_2017 - Joachim Tingvold (tg17++)
 - https://bilder.kly.no/#!/2017-04-07-tg17 - Kristian Lyngstøl (tg17++)
 
+Nedtelling
+----------
+
+- https://royolsen1.github.io/Tg-countdown/ - Countdown til TG18 !
+- https://tg.friday.horse/ - Studer hester mens du venter
+- https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
+
 Misc
 ----
 
@@ -38,6 +45,7 @@ Misc
 - https://tg.friday.horse/ - Studer hester mens du venter
 - https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
 - https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
+
 
 Crew-relatert
 -------------
