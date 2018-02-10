@@ -29,6 +29,8 @@ greit)
 
 - https://bilder.jocke.no/#!/the_gathering_2017 - Joachim Tingvold (tg17++)
 - https://bilder.kly.no/#!/2017-04-07-tg17 - Kristian Lyngstøl (tg17++)
+- https://pics.velox.pw/#!/the_gathering_2017 - Morten Linderud (tg17++)
+- https://pr0n.sesse.net/tg17/ - Steinar Gunderson (tg17++)
 
 Nedtelling
 ----------
