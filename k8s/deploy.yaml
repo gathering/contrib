@@ -5,7 +5,7 @@ metadata:
     app: contrib
   name: contrib
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: contrib
@@ -17,6 +17,11 @@ spec:
       containers:
       - image: thegathering/contrib:latest
         name: contrib
+        resources:
+          limits:
+            cpu: 1
+          requests:
+            cpu: 50m
         ports:
         - containerPort: 80
           protocol: TCP
