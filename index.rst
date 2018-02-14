@@ -37,6 +37,7 @@ Nedtelling
 - https://royolsen1.github.io/Tg-countdown/ - Countdown til TG18 !
 - https://tg.friday.horse/ - Studer hester mens du venter
 - https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
+- https://tg18.tghack.no/ - Nedtelling til tghack 2018
 
 Misc
 ----
