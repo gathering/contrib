@@ -14,7 +14,7 @@ Offisielle ting
 - https://www.gathering.org
 - https://www.geekevents.org/tg18/shop/#/ - billettsalg
 - https://kandu.no - Kreativ, Aktiv, Norsk Dataungdom, organisasjonen bak TG
-- https://www.facebook.com/groups/tg2018/ - The Gathering på Facebook
+- https://www.facebook.com/gatheringorg/ - The Gathering på Facebook
 - https://discord.gg/PmSTYdT - Discord, chat!
 - https://unicorn.gathering.org/ - Composystem for The Gathering
 - https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
@@ -50,4 +50,5 @@ Crew-relatert
 - https://wannabe.gathering.org - crewopptak, med mer
 - https://atlassian.gathering.org/ - confluence/jira (wiki, etc)
 - https://gathering.slack.com - Spør din chief for tilgang
+- https://www.facebook.com/groups/tg2018/ - The Gathering Crew på Facebook
 
