@@ -5,10 +5,15 @@ metadata:
     app: contrib
   name: contrib
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: contrib
+  strategy:
+    rollingUpdate:
+      maxSurge: 2
+      maxUnavailable: 0
+    type: RollingUpdate
   template:
     metadata:
       labels:
