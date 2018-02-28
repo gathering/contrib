@@ -55,10 +55,13 @@ greit)
 Bidrag fra TG-folk!
 ===================
 
-Er du på TG? Lager du noe? Hva so helst? Legg til ditt bidrag her! Det
+Er du på TG? Lager du noe? Hva som helst? Legg til ditt bidrag her! Det
 trenger ikke være ferdig, fancy eller nyttig. Men det kan være det! Tanken
 er at du som er på TG kan vise fram hva du gjør, og finne andre som kanskje
-gjør lignende ting!
+gjør lignende ting! Også kan du slå av en prat med dem i påsken.
+
+Det kan være koding, demoer, maps i et eller annet spill, egentlig hva som
+helst som kan være av interesse for andre.
 
 *Nils Kristian Brekke aka Brekkjern*
 
