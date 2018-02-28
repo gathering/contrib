@@ -53,3 +53,7 @@ Crew-relatert
 - https://gathering.slack.com - Spør din chief for tilgang
 - https://www.facebook.com/groups/tg2018/ - The Gathering Crew på Facebook
 
+Andre bidrag
+------------
+
+- Nils Kristian Brekke aka Brekkjern - Random kode for TG og meg selv - Finn meg på IRC i #tg-creative@EFNet eller https://github.com/Brekkjern
