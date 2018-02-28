@@ -1,3 +1,4 @@
+============================
 The Gathering: Contributions
 ============================
 
@@ -7,6 +8,9 @@ mens annet innhold er lagd av folk som ikke har noen formell assosiasjon
 med TG/KANDU. The Gathering/KANDU går ikke god for innhold eller
 informasjon du finner på disse sidene. Om du ønsker å legge til noe i
 lista, se https://github.com/gathering/contrib 
+
+TG-relaterte bidrag
+===================
 
 Offisielle ting
 ---------------
@@ -53,7 +57,31 @@ Crew-relatert
 - https://gathering.slack.com - Spør din chief for tilgang
 - https://www.facebook.com/groups/tg2018/ - The Gathering Crew på Facebook
 
-Andre bidrag
-------------
+Bidrag fra TG-folk!
+===================
 
-- Nils Kristian Brekke aka Brekkjern - Random kode for TG og meg selv - Finn meg på IRC i #tg-creative@EFNet eller https://github.com/Brekkjern
+Er du på TG? Lager du noe? Hva so helst? Legg til ditt bidrag her! Det
+trenger ikke være ferdig, fancy eller nyttig. Men det kan være det! Tanken
+er at du som er på TG kan vise fram hva du gjør, og finne andre som kanskje
+gjør lignende ting!
+
+
+Nils Kristian Brekke aka Brekkjern
+..................................
+
+- Random kode for TG og meg selv - https://github.com/Brekkjern
+- Finn meg på IRC i #tg-creative@EFNet eller https://github.com/Brekkjern
+
+Kristian Lyngstøl
+.................
+
+- Jeg hacker på mye rart! Nå meg å IRC (KristianL på #tg @ EFNet) eller i
+  NOC'en om du finner veien.
+- https://friday.horse / https://txt.friday.horse/
+  https://txt.friday.horse/plz/hd - Kode på
+  https://github.com/KristianLyng/friday.horse . En salig samling av hacks
+  i alt fra GNU AWK til HTML5 canvaser og Google Kubernetes Engine
+- Gondul - overvåking for dataparties som TG. Perl, Python, HTML5,
+  JavaScript med mer. Se https://github.com/tech-server/gondul
+
+
