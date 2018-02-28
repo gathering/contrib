@@ -78,5 +78,10 @@ helst som kan være av interesse for andre.
   i alt fra GNU AWK til HTML5 canvaser og Google Kubernetes Engine
 - Gondul - overvåking for dataparties som TG. Perl, Python, HTML5,
   JavaScript med mer. Se https://github.com/tech-server/gondul
+  
+*Hans Benny Christofferen*
+
+- Leder av LAN-Norge. En frivilling organisasjon som gir LAN gratis reklame. En portal for deltagere å finne treff. Eller LAN for å finne deltagere eller andre LAN som vil låne/leie utstyr.
+- http://www.lan-norge.no / https://www.facebook.com/lannorge
 
 
