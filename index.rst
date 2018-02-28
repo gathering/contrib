@@ -65,15 +65,14 @@ trenger ikke være ferdig, fancy eller nyttig. Men det kan være det! Tanken
 er at du som er på TG kan vise fram hva du gjør, og finne andre som kanskje
 gjør lignende ting!
 
-
 Nils Kristian Brekke aka Brekkjern
-..................................
+----------------------------------
 
 - Random kode for TG og meg selv - https://github.com/Brekkjern
 - Finn meg på IRC i #tg-creative@EFNet eller https://github.com/Brekkjern
 
 Kristian Lyngstøl
-.................
+-----------------
 
 - Jeg hacker på mye rart! Nå meg å IRC (KristianL på #tg @ EFNet) eller i
   NOC'en om du finner veien.
