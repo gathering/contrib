@@ -31,12 +31,110 @@
   </head>
   <body>
     <div class="container">
-    <div class="row">
-    <div class="col-md-10">
+      <div class="row">
+        <div class="col-md-10">
 %(body_pre_docinfo)s
+          <p>
+            <a class="btn btn-primary" data-toggle="collapse" href="#omSiden" role="button" aria-expanded="false" aria-controls="omSiden">
+              Om siden
+            </a>
+            <a class="btn btn-primary" data-toggle="collapse" href="#leggeTil" role="button" aria-expanded="false" aria-controls="leggeTil">
+              Legg til ditt eget innhold!
+            </a>
+            <a class="btn btn-primary" data-toggle="collapse" href="#hvaTil" role="button" aria-expanded="false" aria-controls="hvaTil">
+              Hva kan legges til?
+            </a>
+            <a class="btn btn-primary" data-toggle="collapse" href="#fixIt" role="button" aria-expanded="false" aria-controls="fixIt">
+              Noe må rettes/fikses!
+            </a>
+          </p>
+          <div class="collapse" id="omSiden">
+            <div class="card card-body">
+              <p>
+                Dette er en uoffisiell liste over lenker som er, på en eller
+                annen måte, relatert til The Gathering. Noe av innholdet er
+                lagd av folk bak TG/KANDU, mens annet innhold er lagd av folk
+                som ikke har noen formell assosiasjon med TG/KANDU. The
+                Gathering/KANDU går ikke god for innhold eller informasjon du
+                finner på disse sidene.
+              </p>
+            </div>
+          </div>
+          <div class="collapse" id="leggeTil">
+            <div class="card card-body">
+              <p>
+                Denne siden er styrt gjennom et åpent git-repository. Om du er
+                kyndig i git/github så se på 
+                <a href="https://github.com/gathering/contrib">
+                  https://github.com/gathering/contrib
+                </a>
+                og åpne et pull request. Vi har ingen store kriterier for
+                bidrag, men forbeholder oss retten til å formatere og sortere
+                og slikt. Og vi bruker sunn fornuft.
+              </p>
+              <p>
+                Om du ikke er kjent med git har du tre alternativer: 1. Lær deg
+                git og send oss en pull request! 2. Lag et "issue" på
+                github-siden der du rett og slett spør oss om å legge til for
+                deg. Fint om du da sørger for å få med fullt navn/nick og
+                hvordan du eventuelt kan kontaktes. 3. Spør en bekjent om
+                hjelp.
+              </p>
+              <p>
+                Om alt annet feiler kan du alltids sende en e-post til
+                wannabe@gathering.org (i mangel av bedre e-post-adresse).
+              </p>
+            </div>
+          </div>
+          <div class="collapse" id="fixIt">
+            <div class="card card-body">
+              <p>
+                Innholdet du finner her er lagt til av og kontrollert av folk
+                som ikke nødvendigvis har noe med TG å gjøre. Om du finner noe
+                du mener vi (TG) ikke burde linke til, for eksempel porno,
+                piratkopiering eller annet upassende innhold kan du enten
+								rett og slett fikse det selv og sende et pull request (se
+								"Legge til ditt eget innhold" - samme prosess), eller om du
+								helst vil være anonym kan du sende en e-post til
+								wannabe@gathering.org så behandler vi "off the record".
+              </p>
+							<p>
+							  Merk at TG og KANDU ikke tar noe som helst ansvar for
+								innholdet, men vi prøver så godt vi kan slik at dette skal
+								være en fornuftig liste. Hjelp oss!
+							</p>
+            </div>
+          </div>
+          <div class="collapse" id="hvaTil">
+            <div class="card card-body">
+              <p>
+							  Denne siden kan egentlig brukes til hva som helst av
+								innhold, hele poenget er at det er vi - du og jeg - som
+								deltar på TG som skal fylle den.
+              </p>
+							<p>
+							  Om du har innhold eller forslag som ikke passer under en
+								eksisterende kategori så kan du gjerne bare lage den
+								kategorien og sende et pull request, så ser vi på det.
+								Eller diskutere i et issue.
+							</p>
+							<p>
+							  I skrivende stund er siden veldig tom! Vi <b>trenger din
+								hjelp!</b> Eksempler på ting vi gjerne skulle sett her:
+						  </p>
+							<ul>
+							  <li>Linker til streams som lages av deltakere på TG!</li>
+								<li>Demo-bidrag som kanskje aldri nådde en compo</li>
+								<li>Lager du custom kart i et spill? Del det!</li>
+								<li>Koder du noe gøy?</li>
+								<li>Lager du fysiske dingser? Droner? Hvem vet?</li>
+								<li>Masse ting vi ikke har tenkt på!</li>
+							</ul>
+            </div>
+          </div>
 %(body)s
-    </div>
-    </div>
+        </div>
+      </div>
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-1.11.3.min.js"></script>
