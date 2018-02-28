@@ -12,8 +12,7 @@ lista, se https://github.com/gathering/contrib
 TG-relaterte bidrag
 ===================
 
-Offisielle ting
----------------
+*Offisielle ting*
 
 - https://www.gathering.org
 - https://www.geekevents.org/tg18/shop/#/ - billettsalg
@@ -23,8 +22,7 @@ Offisielle ting
 - https://unicorn.gathering.org/ - Composystem for The Gathering
 - https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
 
-Bilder
-------
+*Bilder*
 
 Husk: Før du gjenbruker bilder må du sjekke om du får lov (linking er
 greit)
@@ -34,8 +32,7 @@ greit)
 - https://pics.velox.pw/#!/the_gathering_2017 - Morten Linderud (tg17++)
 - https://pr0n.sesse.net/tg17/ - Steinar Gunderson (tg17++)
 
-Nedtelling
-----------
+*Nedtelling*
 
 - https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
 - https://royolsen1.github.io/Tg-countdown/ - Countdown til TG18 !
@@ -43,14 +40,12 @@ Nedtelling
 - https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
 - https://tg18.tghack.no/ - Nedtelling til tghack 2018
 
-Misc
-----
+*Misc*
 
 - https://stats.geekevents.org - statistikk for billettsalg
 - https://tg.msbone.net/ - Old-school statistikk
 
-Crew-relatert
--------------
+*Crew-relatert*
 
 - https://wannabe.gathering.org - crewopptak, med mer
 - https://atlassian.gathering.org/ - confluence/jira (wiki, etc)
@@ -65,14 +60,12 @@ trenger ikke være ferdig, fancy eller nyttig. Men det kan være det! Tanken
 er at du som er på TG kan vise fram hva du gjør, og finne andre som kanskje
 gjør lignende ting!
 
-Nils Kristian Brekke aka Brekkjern
-----------------------------------
+*Nils Kristian Brekke aka Brekkjern*
 
 - Random kode for TG og meg selv - https://github.com/Brekkjern
 - Finn meg på IRC i #tg-creative@EFNet eller https://github.com/Brekkjern
 
-Kristian Lyngstøl
------------------
+*Kristian Lyngstøl*
 
 - Jeg hacker på mye rart! Nå meg å IRC (KristianL på #tg @ EFNet) eller i
   NOC'en om du finner veien.
