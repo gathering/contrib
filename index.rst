@@ -15,6 +15,7 @@ TG-relaterte bidrag
 - https://discord.gg/PmSTYdT - Discord, chat!
 - https://unicorn.gathering.org/ - Composystem for The Gathering
 - https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
+- https://stats.geekevents.org - statistikk for billettsalg
 
 *Bilder*
 
@@ -25,7 +26,6 @@ greit)
 - https://bilder.kly.no/#!/2017-04-07-tg17 - Kristian Lyngstøl (tg17++)
 - https://pics.velox.pw/#!/the_gathering_2017 - Morten Linderud (tg17++)
 - https://pr0n.sesse.net/tg17/ - Steinar Gunderson (tg17++)
-- https://stats.geekevents.org - statistikk for billettsalg
 
 *Nedtelling*
 
