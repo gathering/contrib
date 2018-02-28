@@ -70,4 +70,14 @@ Bidrag fra TG-folk!
 - Leder av LAN-Norge. En frivilling organisasjon som gir LAN gratis reklame. En portal for deltagere å finne treff. Eller LAN for å finne deltagere eller andre LAN som vil låne/leie utstyr.
 - http://www.lan-norge.no / https://www.facebook.com/lannorge
 
+*Morten Linderud*
+
+- Foxboron på IRC/Discord/de fleste steder på verdensveven
+- Opptatt av sikkerhet, personvern og kryptografi
+- Elsker Open-Source og bidrar i en del prosjekter
+  https://github.com/Foxboron
+- Pakker pakker for Arch Linux
+  https://www.archlinux.org/people/trusted-users/#Foxboron
+- Endte i AI finalen med en total score på -293 poeng. Spørr meg om AI!
+
 
