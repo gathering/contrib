@@ -80,4 +80,9 @@ Bidrag fra TG-folk!
   https://www.archlinux.org/people/trusted-users/#Foxboron
 - Endte i AI finalen med en total score på -293 poeng. Spørr meg om AI!
 
+*Nicolai Solbakk Willumsen*
+- Storytelling gjennom video og foto er min lidenskap, spesielt på TG!
+- TG17 Concert Aftermovie: https://www.youtube.com/watch?v=SFL_2oDbO5Y
+- TG17 Stemningsbilder: https://photos.jottacloud.com/share/esj9438s
+
 
