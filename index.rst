@@ -2,11 +2,8 @@
 The Gathering: Contributions
 ============================
 
-
-TG-relaterte bidrag
-===================
-
-*Offisielle ting*
+Offisielle ting
+===============
 
 - https://www.gathering.org
 - https://www.geekevents.org/tg18/shop/#/ - billettsalg
@@ -17,7 +14,8 @@ TG-relaterte bidrag
 - https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
 - https://stats.geekevents.org - statistikk for billettsalg
 
-*Bilder*
+Bildegallerier
+==============
 
 Husk: Før du gjenbruker bilder må du sjekke om du får lov (linking er
 greit)
@@ -27,14 +25,16 @@ greit)
 - https://pics.velox.pw/#!/the_gathering_2017 - Morten Linderud (tg17++)
 - https://pr0n.sesse.net/tg17/ - Steinar Gunderson (tg17++)
 
-*Nedtelling*
+Nedtelling
+==========
 
 - https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
 - https://royolsen1.github.io/Tg-countdown/ - Countdown til TG18 !
 - https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
 - https://tg18.tghack.no/ - Nedtelling til tghack 2018
 
-*Crew-relatert*
+Crew-relatert
+=============
 
 - https://wannabe.gathering.org - crewopptak, med mer
 - https://atlassian.gathering.org/ - confluence/jira (wiki, etc)
