@@ -29,10 +29,16 @@
   <body>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-2">
-          <div class="card">
-            <div class="card-body">
-              <h4 class="card-title">Om siden</h4>
+        <div class="col-md-2 mx-1">
+        </div>
+        <div class="col-md-9">
+%(body_pre_docinfo)s
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-2 bg-light border mx-1">
+          
+              <h4>Om siden</h4>
               <p>
                 Dette er en <i>uoffisiell</i> liste over lenker til ting som
                 enten dreier seg om TG eller er lagd av folk som er på TG.
@@ -94,10 +100,7 @@
                 så ser vi på det så snart vi kan.
               </p>
             </div>
-          </div>
-        </div>
-        <div class="col-md-10">
-%(body_pre_docinfo)s
+        <div class="col-md-9">
 %(body)s
         </div>
       </div>
