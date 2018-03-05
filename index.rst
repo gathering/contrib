@@ -6,6 +6,7 @@ Offisielle ting
 ===============
 
 - https://www.gathering.org
+- https://archive.gathering.org - Liste over tidligere nettsider
 - https://www.geekevents.org/tg18/shop/#/ - billettsalg
 - https://kandu.no - Kreativ, Aktiv, Norsk Dataungdom, organisasjonen bak TG
 - https://www.facebook.com/gatheringorg/ - The Gathering på Facebook
