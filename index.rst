@@ -35,6 +35,7 @@ Nedtelling
 - https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
 - https://tg18.tghack.no/ - Nedtelling til tghack 2018
 - http://www.tgyears.net/ - Nedtelling til TG, laget av Max André Blomseth
+- https://tghype.darkleaks.net/ - Nedtelling og annet snax laget av Marius Berget
 
 Crew-relatert
 =============
