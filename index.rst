@@ -90,4 +90,6 @@ Bidrag fra TG-folk!
 - TG17 Concert Aftermovie: https://www.youtube.com/watch?v=SFL_2oDbO5Y
 - TG17 Stemningsbilder: https://photos.jottacloud.com/share/esj9438s
 
+*Asle Leknes*
 
+- https://leknes.info/tgnett - uoffisiell oversikt over nettverk på The Gathering gjennom tidene, med diverse andre kilder
