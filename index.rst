@@ -69,7 +69,7 @@ Bidrag fra TG-folk!
 - https://tg.friday.horse/ - Studer hester mens du venter
 - Gondul - overvåking for dataparties som TG. Perl, Python, HTML5,
   JavaScript med mer. Se https://github.com/tech-server/gondul
-  
+
 *Hans Benny Christofferen*
 
 - Leder av LAN-Norge. En frivilling organisasjon som gir LAN gratis reklame. En portal for deltagere å finne treff. Eller LAN for å finne deltagere eller andre LAN som vil låne/leie utstyr.
@@ -94,3 +94,10 @@ Bidrag fra TG-folk!
 *Asle Leknes*
 
 - https://leknes.info/tgnett - uoffisiell oversikt over nettverk på The Gathering gjennom tidene, med diverse andre kilder
+
+*Benjamin Akar*
+
+- Porteføljen min finner du på https://benjaminakar.com/
+- Jobber på en artikkel-plattform som per dags dato ikke er lansert - https://articool.benjaminakar.com/
+- Interessert i webutvikling, digital design og foto-/videoredingering
+- Du finner meg på de fleste sosiale medier som @benjaminakar
