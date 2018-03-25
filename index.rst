@@ -38,6 +38,8 @@ Nedtelling
 - https://tghype.darkleaks.net/ - Nedtelling og annet snax laget av Marius Berget
 - http://awebsolutions.no/isiteasteryet/ - Nedtelling til TG18 laget av Fredrik Angell Moe
 
+- http://steamcommunity.com/sharedfiles/filedetails/?id=1341748765 Wallpaper Nedtelling Kopi av Fredrik Angell Moe. 
+
 Crew-relatert
 =============
 
