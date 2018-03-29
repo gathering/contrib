@@ -23,10 +23,10 @@ Husk: Før du gjenbruker bilder må du sjekke om du får lov (linking er
 greit)
 
 - https://bilder.jocke.no/#!/the_gathering_2017 - Joachim Tingvold (tg17++)
-- https://bilder.kly.no/#!/2017-04-07-tg17 - Kristian Lyngstøl (tg17++)
+- https://bilder.kly.no/#!/2018-03-17-the_gathering-2018 - Kristian Lyngstøl (tg18++)
 - https://pics.velox.pw/#!/the_gathering_2017 - Morten Linderud (tg17++)
 - https://pr0n.sesse.net/tg17/ - Steinar Gunderson (tg17++)
-- https://bilder.grytbak.net/#!/the_gathering_2017 - Martin Grytbak (tg17++)
+- https://bilder.grytbak.net/#!/the_gathering_2018 - Martin Grytbak (tg18++)
 
 Nedtelling
 ==========
