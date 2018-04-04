@@ -32,7 +32,7 @@ Nedtelling
 ==========
 
 - https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
-- https://royolsen1.github.io/Tg-countdown/ - Countdown til TG18 !
+- https://royolsen1.github.io/Tg-countdown/ - Countdown til TG19 (updated) !
 - https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
 - https://tg18hack.firebaseapp.com/ - Nedtelling til tghack 2018
 - http://www.tgyears.net/ - Nedtelling til TG, laget av Max André Blomseth
