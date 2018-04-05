@@ -105,8 +105,9 @@ Bidrag fra TG-folk!
 - Du finner meg på de fleste sosiale medier som @benjaminakar
 
 *Roy Olsen*
--Frivlillighet og droner er min lidenskap
--Student på Get Academy: Getacademy.no
--Crew på forskjellige lan i Vestfold
--Løser mye smått med enkel kode: https://github.com/royolsen1
--spør meg om: Lan/dataprty i Vestfold, droner og Get Academy
+
+- Frivlillighet og droner er min lidenskap
+- Student på Get Academy: Getacademy.no
+- Crew på forskjellige lan i Vestfold
+- Løser mye smått med enkel kode: https://github.com/royolsen1
+- Spør meg om: Lan/dataprty i Vestfold, droner og Get Academy
