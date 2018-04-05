@@ -103,3 +103,11 @@ Bidrag fra TG-folk!
 - Jobber på en artikkel-plattform som per dags dato ikke er lansert - https://articool.benjaminakar.com/
 - Interessert i webutvikling, digital design og foto-/videoredingering
 - Du finner meg på de fleste sosiale medier som @benjaminakar
+
+*Roy Olsen*
+
+- Frivlillighet og droner er min lidenskap
+- Student på Get Academy: Getacademy.no
+- Crew på forskjellige lan i Vestfold
+- Løser mye smått med enkel kode: https://github.com/royolsen1
+- Spør meg om: Lan/dataprty i Vestfold, droner og Get Academy
