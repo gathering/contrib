@@ -26,7 +26,7 @@ greit)
 - https://bilder.kly.no/#!/2018-03-17-the_gathering-2018 - Kristian Lyngstøl (tg18++)
 - https://pics.velox.pw/#!/the_gathering_2018 - Morten Linderud (tg18++)
 - https://pr0n.sesse.net/tg18/ - Steinar Gunderson (tg18++)
-- https://bilder.grytbak.net/#!/the_gathering_2018 - Martin Grytbak (tg18++)
+- https://bilder.grytbak.net/#15461123964782 - Martin Grytbak (tg18++)
 
 Nedtelling
 ==========
