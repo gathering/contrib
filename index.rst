@@ -14,7 +14,7 @@ Offisielle ting
 - https://unicorn.gathering.org/ - Composystem for The Gathering
 - https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
 - https://stats.geekevents.org - statistikk for billettsalg
-- https://nms.tg18.gathering.org/ - Gondul (nettverksmonitorering) - Se https://github.com/tech-server/gondul
+- https://nms.tg18.gathering.org/ - Gondul (nettverksmonitorering) - Se https://github.com/gathering/gondul
 
 Bildegallerier
 ==============
