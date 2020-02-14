@@ -55,11 +55,6 @@ Bidrag fra TG-folk!
 
 - https://tg.msbone.net/ - Old-school statistikk
 
-*Nils Kristian Brekke aka Brekkjern*
-
-- Random kode for TG og meg selv - https://github.com/Brekkjern
-- Finn meg på IRC i #tg-creative@EFNet eller https://github.com/Brekkjern
-
 *Kristian Lyngstøl*
 
 - Jeg hacker på mye rart! Nå meg å IRC (KristianL på #tg @ EFNet) eller i
