@@ -7,14 +7,13 @@ Offisielle ting
 
 - https://www.gathering.org
 - https://archive.gathering.org - Liste over tidligere nettsider
-- https://www.geekevents.org/tg18/shop/#/ - billettsalg
+- https://www.geekevents.org/tg20/shop/#/ - billettsalg
 - https://kandu.no - Kreativ, Aktiv, Norsk Dataungdom, organisasjonen bak TG
 - https://www.facebook.com/gatheringorg/ - The Gathering på Facebook
 - https://discord.gg/PmSTYdT - Discord, chat!
 - https://unicorn.gathering.org/ - Composystem for The Gathering
-- https://tech.gathering.org/ - Tech-blog, for Tech:Net og Core:Systems
-- https://stats.geekevents.org - statistikk for billettsalg
-- https://nms.tg18.gathering.org/ - Gondul (nettverksmonitorering) - Se https://github.com/gathering/gondul
+- https://tech.gathering.org/ - Tech-blog
+- https://github.com/gathering/ - The Gathering Github
 
 Bildegallerier
 ==============
@@ -28,32 +27,16 @@ greit)
 - https://pr0n.sesse.net/tg18/ - Steinar Gunderson (tg18++)
 - https://bilder.grytbak.net/#15461123964782 - Martin Grytbak (tg18++)
 
-Nedtelling
-==========
-
-- https://countdown.gathering.org/ - Nedtelling, men med TG17-tema
-- https://royolsen1.github.io/Tg-countdown/ - Countdown til TG19 (updated) !
-- https://oscen.no/gathering-countdown/ - Nedtelling, med TG18-ish tema
-- https://tg18hack.firebaseapp.com/ - Nedtelling til tghack 2018
-- http://www.tgyears.net/ - Nedtelling til TG, laget av Max André Blomseth
-- https://tghype.darkleaks.net/ - Nedtelling og annet snax laget av Marius Berget
-- http://awebsolutions.no/isiteasteryet/ - Nedtelling til TG18 laget av Fredrik Angell Moe
-- http://steamcommunity.com/sharedfiles/filedetails/?id=1341748765 Wallpaper Nedtelling Kopi av Fredrik Angell Moe. 
-
 Crew-relatert
 =============
 
 - https://wannabe.gathering.org - crewopptak, med mer
 - https://atlassian.gathering.org/ - confluence/jira (wiki, etc)
 - https://gathering.slack.com - Spør din chief for tilgang
-- https://www.facebook.com/groups/tg2018/ - The Gathering Crew på Facebook
+- https://www.facebook.com/groups/tg2020/ - The Gathering Crew på Facebook
 
 Bidrag fra TG-folk!
 ===================
-
-*Ole Mathias Aa Heggem*
-
-- https://tg.msbone.net/ - Old-school statistikk
 
 *Kristian Lyngstøl*
 
@@ -65,7 +48,7 @@ Bidrag fra TG-folk!
   i alt fra GNU AWK til HTML5 canvaser og Google Kubernetes Engine
 - https://tg.friday.horse/ - Studer hester mens du venter
 - Gondul - overvåking for dataparties som TG. Perl, Python, HTML5,
-  JavaScript med mer. Se https://github.com/tech-server/gondul
+  JavaScript med mer. Se https://github.com/gathering/gondul
 
 *Hans Benny Christofferen*
 
