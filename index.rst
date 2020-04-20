@@ -89,3 +89,7 @@ Bidrag fra TG-folk!
 - Crew på forskjellige lan i Vestfold
 - Løser mye smått med enkel kode: https://github.com/royolsen1
 - Spør meg om: Lan/dataprty i Vestfold, droner og Get Academy
+
+*ent3r*
+
+- https://github.com/ent3r-s-projects/discord-rfc-bot - En liten discord bot som gir deg info om div RFC standarder. Laget i discord.js.
