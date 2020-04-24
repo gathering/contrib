@@ -96,3 +96,7 @@ Bidrag fra TG-folk!
 - Har bodd deler av TG16 og TG17 i diverse distroskap rundt om i skipet, ellers å finne i NOC.
 - Er ingen utvikler, men lager rare ting.
 - Prøver å visualisere TG sin discord: https://grafana.atrius.net
+
+*ent3r*
+
+- https://github.com/ent3r-s-projects/discord-rfc-bot - En liten discord bot som gir deg info om div RFC standarder. Laget i discord.js.
