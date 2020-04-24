@@ -91,6 +91,7 @@ Bidrag fra TG-folk!
 - Spør meg om: Lan/dataprty i Vestfold, droner og Get Academy
 
 *Marius Linge*
+
 - Trønder.
 - Har bodd deler av TG16 og TG17 i diverse distroskap rundt om i skipet, ellers å finne i NOC.
 - Er ingen utvikler, men lager rare ting.
