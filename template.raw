@@ -3,41 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>contrib.gathering.org</title>
-
-    <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
-    <link href="css/minimal.css" rel="stylesheet">
-    <link href="css/rst-overrides.css" rel="stylesheet">
-    <link href="css/pygment-style.css" rel="stylesheet">
-    <style>
-	body h1 a { color: black; }
-	body h2 a { color: black; }
-	body h3 a { color: black; }
-    </style>
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   </head>
   <body>
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-2 mx-1">
-        </div>
-        <div class="col-md-9">
-%(body_pre_docinfo)s
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-2 bg-light border mx-1">
-          
+        <div class="col-md-3 bg-light border pt-3 px-3">
               <h4>Om siden</h4>
               <p>
                 Dette er en <i>uoffisiell</i> liste over lenker til ting som
@@ -54,7 +27,7 @@
               <p>
                 Det er opp til deg som deltar på TG å gjøre denne siden
                 fantastisk! Om du har noe du mener passer inn her så kan
-                du sende en e-post til 
+                du sende en e-post til
                 <a href="mailto:contrib@gathering.org">
                   contrib@gathering.org
                 </a>
@@ -62,7 +35,7 @@
               </p>
               <p>
                 Alternativt kan du faktisk legge det til selv. Denne
-                siden er vedlikeholdt i et åpent 
+                siden er vedlikeholdt i et åpent
                 <a href="https://github.com/gathering/contrib">
                   github repository
                 </a>. Her er det bare å sende pull requests hvis det er
@@ -93,21 +66,17 @@
                 er skapt av deltakere på TG, så glipp kan skje.
               </p>
               <p>
-                Hvis det forekommer så send oss en e-post på 
+                Hvis det forekommer så send oss en e-post på
                 <a href="mailto:contrib@gathering.org">
                   contrib@gathering.org
                 </a>
                 så ser vi på det så snart vi kan.
               </p>
             </div>
-        <div class="col-md-9">
-%(body)s
+        <div class="col-md-8 pt-3 px-3">
+{body}
         </div>
       </div>
     </div>
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery-1.11.3.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
