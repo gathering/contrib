@@ -97,6 +97,7 @@ Bidrag fra TG-folk!
 - Er ingen utvikler, men lager rare ting.
 - Prøver å visualisere TG sin discord: https://grafana.atrius.net
 
-*ent3r*
+*s1lv3r*
 
-- https://github.com/ent3r-s-projects/discord-rfc-bot - En liten discord bot som gir deg info om div RFC standarder. Laget i discord.js.
+- https://github.com/theS1LV3R/discord-rfc-bot - En liten discord bot som gir deg info om div RFC standarder. Laget i discord.js.
+- https://tg.s1lv3r.codes - En statusside til Tech:Online som viser status på alle stacks samtidig.
